@@ -1,0 +1,17 @@
+.tabela table{
+    width: 100%;
+    border-collapse: collapse;
+
+  }
+  .tabela th, .tabela td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+    color: black;
+  }
+  .tabela th{
+    background-color: #f2f2f2;
+  }
+  .tabela td{
+    background-color: #e0e0e0;
+  } /* fim da estilização da tabela
